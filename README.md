@@ -14,7 +14,7 @@ I enjoy doing 🎄[Advent of Code](https://adventofcode.com/)🎄 puzzles and yo
 
 - [2015](https://github.com/mdm/adventofcode2015) - Solutions in [Haskell](https://www.haskell.org/)
 - [2016](https://github.com/mdm/adventofcode2016) - Solutions in [Factor](https://factorcode.org/)
-- [2017](https://github.com/mdm/adventofcode2017) - Solutions in [Common Lisp](https://common-lisp.net/)
+- [2017](https://github.com/mdm/adventofcode2017) - Solutions in [Common Lisp](https://common-lisp.net/) (work in progress)
 - [2018](https://github.com/mdm/adventofcode2018) - Solutions in [Ruby](https://www.ruby-lang.org/en/)
 - [2019](https://github.com/mdm/adventofcode2019) - Solutions in [Rust](https://rust-lang.org/)
 - [2020](https://github.com/mdm/adventofcode2020) - Solutions in [Rust](https://rust-lang.org/)
