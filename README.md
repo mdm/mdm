@@ -2,7 +2,7 @@
 
 Hi! I'm Marc Migge, a software engineer from Cologne, Germany.
 
-I have been programming since my early teens, using various languages. My favorite for while now has been 🦀**[Rust](https://rust-lang.org/)**🦀. By trade I'm a web developer, but I like to dabble in all kinds of software development - from embedded to compilers.
+I have been programming since my early teens, using various languages. My favorite for while now has been 🦀[**Rust**](https://rust-lang.org/)🦀. By trade I'm a web developer, but I like to dabble in all kinds of software development - from embedded to compilers.
 
 ## Projects 🌱
 - [Confidante](https://github.com/mdm/confidante) - A work-in-progress **XMPP server**, aiming to be fully standards-compliant.
